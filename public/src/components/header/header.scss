@@ -1,0 +1,17 @@
+.bg-primary {
+    background: #fbbc5c !important;
+}
+.header-search {
+    color: white;
+    display: inline-flex;
+    border: 1px solid white;
+    width: 35px;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    text-decoration: none;
+    &:hover {
+        color: white;
+    }
+}
