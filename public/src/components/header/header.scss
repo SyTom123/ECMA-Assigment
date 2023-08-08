@@ -15,3 +15,12 @@
         color: white;
     }
 }
+.header-navbar {
+    margin-right: 0 !important;
+}
+.header-mainNav{
+    display: flex;
+    justify-content: space-between !important;
+    width: 100%;
+    align-items: center;
+}
