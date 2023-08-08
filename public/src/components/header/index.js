@@ -16,8 +16,17 @@ const Header = {
                         <div class="col-md-6 ">
                             <ul class = "list-unstyled d-flex  my-1 justify-content-md-end align-items-center">
                                 <li > <a href="" class = "header-search" ><i class="fa-solid fa-magnifying-glass"></i></a></li>
-                                <li class = "ms-2">09:00 - 17:00 |</li>
-                                <li class = "ms-2"><i class="fa-solid fa-phone"></i> 0347 247 244 |</li>
+                                <li class = "ms-2">XIN CHÀO |</li>
+                                <li class = "ms-2">
+                                    <a class=" position-relative">
+                                    <i class="fa-solid fa-cart-shopping "></i> </i>
+                                    <span class="position-absolute top-0 start-50 translate-middle badge rounded-circle bg-success">
+                                        1
+                                        <span class="visually-hidden">unread messages</span>
+                                    </span>
+                                    </span>
+                                    </a>
+                                </li>
                             </ul>
                         </div>
                     </div>
